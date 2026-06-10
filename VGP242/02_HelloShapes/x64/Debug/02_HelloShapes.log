@@ -1,0 +1,21 @@
+﻿  ShapeStates.cpp
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector2.h(28,59): warning C4552: '+': result of expression not used
+  (compiling source file 'ShapeStates.cpp')
+  
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector2.h(29,59): warning C4552: '-': result of expression not used
+  (compiling source file 'ShapeStates.cpp')
+  
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector3.h(29,59): warning C4552: '+': result of expression not used
+  (compiling source file 'ShapeStates.cpp')
+  
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector3.h(30,59): warning C4552: '-': result of expression not used
+  (compiling source file 'ShapeStates.cpp')
+  
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector4.h(21,59): warning C4552: '+': result of expression not used
+  (compiling source file 'ShapeStates.cpp')
+  
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector4.h(22,59): warning C4552: '-': result of expression not used
+  (compiling source file 'ShapeStates.cpp')
+  
+C:\Users\tjran\Documents\GitHub\TRengine\VGP242\02_HelloShapes\ShapeStates.cpp(9,78): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+  02_HelloShapes.vcxproj -> C:\Users\tjran\Documents\GitHub\TRengine\x64\Debug\02_HelloShapes.exe

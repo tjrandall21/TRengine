@@ -1,0 +1,3 @@
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Graphics\x64\Debug\Graphics.vcxproj.MdMergeInputs.cache
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Graphics\x64\Debug\Graphics.vcxproj.cppwinrt_plat.cache
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Graphics\x64\Debug\Graphics.vcxproj.cppwinrt_comp.cache

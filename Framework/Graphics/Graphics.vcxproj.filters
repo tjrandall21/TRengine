@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="inc">
+      <UniqueIdentifier>{84dc0392-9916-4527-b4b0-e78a5ebe6383}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{23fb2280-1ebe-4c47-88ae-25165ad01404}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="inc\Graphics.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\Common.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\Color.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\GraphicsSystem.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Precompiled.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\VertexTypes.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\VertexShader.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\PixelShader.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\MeshBuffer.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\Camera.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\ConstantBuffer.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\MeshTypes.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\MeshBuilder.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\Texture.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\TextureManager.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\Sampler.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\DebugUI.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\SimpleDraw.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\GraphicsSystem.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Precompiled.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\VertexShader.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\PixelShader.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\MeshBuffer.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Camera.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ConstantBuffer.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\MeshBuilder.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Texture.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TextureManager.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Sampler.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\DebugUI.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\SimpleDraw.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,20 @@
+#pragma once
+#include <TRengine/inc/TRengine.h>
+
+class ShapeState : public TRengine::AppState
+{
+public:
+    void Initialize() override;
+    void Terminate() override;
+    void Update(float deltaTime) override;
+    void Render() override;
+protected:
+    virtual void CreateShape();
+
+    using Vertices = std::vector<TRengine::Graphics::VertexPC>;
+    Vertices mVertices;
+
+    TRengine::Graphics::MeshBuffer mMeshBuffer;
+    TRengine::Graphics::VertexShader mVertexShader;
+    TRengine::Graphics::PixelShader mPixelShader;
+};

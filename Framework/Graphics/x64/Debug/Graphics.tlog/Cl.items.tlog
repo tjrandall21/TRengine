@@ -1,0 +1,13 @@
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Graphics\src\Camera.cpp;C:\Users\tjran\Documents\GitHub\TRengine\Framework\Graphics\x64\Debug\Camera.obj
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Graphics\src\ConstantBuffer.cpp;C:\Users\tjran\Documents\GitHub\TRengine\Framework\Graphics\x64\Debug\ConstantBuffer.obj
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Graphics\src\DebugUI.cpp;C:\Users\tjran\Documents\GitHub\TRengine\Framework\Graphics\x64\Debug\DebugUI.obj
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Graphics\src\GraphicsSystem.cpp;C:\Users\tjran\Documents\GitHub\TRengine\Framework\Graphics\x64\Debug\GraphicsSystem.obj
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Graphics\src\MeshBuffer.cpp;C:\Users\tjran\Documents\GitHub\TRengine\Framework\Graphics\x64\Debug\MeshBuffer.obj
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Graphics\src\MeshBuilder.cpp;C:\Users\tjran\Documents\GitHub\TRengine\Framework\Graphics\x64\Debug\MeshBuilder.obj
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Graphics\src\PixelShader.cpp;C:\Users\tjran\Documents\GitHub\TRengine\Framework\Graphics\x64\Debug\PixelShader.obj
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Graphics\src\Precompiled.cpp;C:\Users\tjran\Documents\GitHub\TRengine\Framework\Graphics\x64\Debug\Precompiled.obj
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Graphics\src\Sampler.cpp;C:\Users\tjran\Documents\GitHub\TRengine\Framework\Graphics\x64\Debug\Sampler.obj
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Graphics\src\SimpleDraw.cpp;C:\Users\tjran\Documents\GitHub\TRengine\Framework\Graphics\x64\Debug\SimpleDraw.obj
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Graphics\src\Texture.cpp;C:\Users\tjran\Documents\GitHub\TRengine\Framework\Graphics\x64\Debug\Texture.obj
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Graphics\src\TextureManager.cpp;C:\Users\tjran\Documents\GitHub\TRengine\Framework\Graphics\x64\Debug\TextureManager.obj
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Graphics\src\VertexShader.cpp;C:\Users\tjran\Documents\GitHub\TRengine\Framework\Graphics\x64\Debug\VertexShader.obj
