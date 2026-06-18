@@ -11,4 +11,18 @@ C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector4.h(21,59): wa
 C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector4.h(22,59): warning C4552: '-': result of expression not used
   (compiling source file 'GameState.cpp')
   
+  WinMain.cpp
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector2.h(28,59): warning C4552: '+': result of expression not used
+  (compiling source file 'WinMain.cpp')
+  
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector2.h(29,59): warning C4552: '-': result of expression not used
+  (compiling source file 'WinMain.cpp')
+  
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector4.h(21,59): warning C4552: '+': result of expression not used
+  (compiling source file 'WinMain.cpp')
+  
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector4.h(22,59): warning C4552: '-': result of expression not used
+  (compiling source file 'WinMain.cpp')
+  
+  Generating Code...
   06_HelloDebug.vcxproj -> C:\Users\tjran\Documents\GitHub\TRengine\x64\Debug\06_HelloDebug.exe

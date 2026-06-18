@@ -65,13 +65,13 @@ void ShapeState::Render()
 
     mConstantBuffer.BindVS(0);
 
+    mSampler.BindPS(0);
     Math::Matrix4 matWorld = Math::Matrix4::Identity;
     Math::Matrix4 matView = mCamera.GetViewMatrix();
     Math::Matrix4 matProj = mCamera.GetProjectionMatrix();
     Math::Matrix4 wvp = matWorld * matView * matProj;
     wvp = Math::Transpose(wvp);
     mConstantBuffer.Update(&wvp);
-    mSampler.BindPS(0);
 
     TextureManager::Get()->BindPS(mTextureId, 0);
 

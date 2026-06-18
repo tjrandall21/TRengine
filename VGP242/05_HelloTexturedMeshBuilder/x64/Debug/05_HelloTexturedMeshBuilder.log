@@ -12,4 +12,18 @@ C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector4.h(22,59): wa
   (compiling source file 'ShapeStates.cpp')
   
 C:\Users\tjran\Documents\GitHub\TRengine\VGP242\05_HelloTexturedMeshBuilder\ShapeStates.cpp(40,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  WinMain.cpp
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector2.h(28,59): warning C4552: '+': result of expression not used
+  (compiling source file 'WinMain.cpp')
+  
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector2.h(29,59): warning C4552: '-': result of expression not used
+  (compiling source file 'WinMain.cpp')
+  
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector4.h(21,59): warning C4552: '+': result of expression not used
+  (compiling source file 'WinMain.cpp')
+  
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector4.h(22,59): warning C4552: '-': result of expression not used
+  (compiling source file 'WinMain.cpp')
+  
+  Generating Code...
   05_HelloTexturedMeshBuilder.vcxproj -> C:\Users\tjran\Documents\GitHub\TRengine\x64\Debug\05_HelloTexturedMeshBuilder.exe

@@ -1,0 +1,41 @@
+﻿  GameState.cpp
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector2.h(28,59): warning C4552: '+': result of expression not used
+  (compiling source file 'GameState.cpp')
+  
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector2.h(29,59): warning C4552: '-': result of expression not used
+  (compiling source file 'GameState.cpp')
+  
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector4.h(21,59): warning C4552: '+': result of expression not used
+  (compiling source file 'GameState.cpp')
+  
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector4.h(22,59): warning C4552: '-': result of expression not used
+  (compiling source file 'GameState.cpp')
+  
+  Planet.cpp
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector2.h(28,59): warning C4552: '+': result of expression not used
+  (compiling source file 'Planet.cpp')
+  
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector2.h(29,59): warning C4552: '-': result of expression not used
+  (compiling source file 'Planet.cpp')
+  
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector4.h(21,59): warning C4552: '+': result of expression not used
+  (compiling source file 'Planet.cpp')
+  
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector4.h(22,59): warning C4552: '-': result of expression not used
+  (compiling source file 'Planet.cpp')
+  
+  WinMain.cpp
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector2.h(28,59): warning C4552: '+': result of expression not used
+  (compiling source file 'WinMain.cpp')
+  
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector2.h(29,59): warning C4552: '-': result of expression not used
+  (compiling source file 'WinMain.cpp')
+  
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector4.h(21,59): warning C4552: '+': result of expression not used
+  (compiling source file 'WinMain.cpp')
+  
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector4.h(22,59): warning C4552: '-': result of expression not used
+  (compiling source file 'WinMain.cpp')
+  
+  Generating Code...
+  07_SolarSystem.vcxproj -> C:\Users\tjran\Documents\GitHub\TRengine\x64\Debug\07_SolarSystem.exe
