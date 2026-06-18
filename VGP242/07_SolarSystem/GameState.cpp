@@ -33,7 +33,7 @@ void GameState::Initialize()
 	mPlanets.push_back(Planet());
 	mPlanets[9].Initialize("planets/pluto.jpg", 0.3f, 32.0f, 0.2f, 0.1f);
 	mPlanets.push_back(Planet());
-	mPlanets[10].Initialize("misc/concrete.jpg", 0.1f, 2.0f, 1.0f);
+	mPlanets[10].Initialize("misc/concrete.jpg", 0.1f, 2.0f, 3.0f);
 
 	MeshPX mesh = MeshBuilder::CreateSkySpherePX(30, 30, 300);
 	mSkyMeshBuffer.Initialize(mesh);

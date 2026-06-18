@@ -44,7 +44,7 @@ void Planet::Render(Camera& camera, ConstantBuffer& constantBuffer)
 
 void Planet::DrawOrbit()
 {
-    SimpleDraw::AddGroundCircle(100, mOrbitRadius, Math::Vector3::Zero, Graphics::Colors::White);
+    SimpleDraw::AddGroundCircle(100, mOrbitRadius, mRotationPoint, Graphics::Colors::White);
 }
 
 void Planet::Update(float deltaTime)
