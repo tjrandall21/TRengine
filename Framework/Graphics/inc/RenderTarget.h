@@ -1,0 +1,32 @@
+#pragma once
+
+
+#include "Color.h"
+#include "Texture.h"
+
+namespace TRengine::Graphics
+{
+    class RenderTarget : public Texture
+    {
+    public:
+        enum class Format
+        {
+            RGBA_U8,
+            RGBA_U32
+        };
+        RenderTarget() = default;
+        ~RenderTarget() override;
+
+        void Initialize(const std::filesystem::path& fileName) override;
+        void Initialize(uint32_t width, uint32_t height, Format format);
+        void Terminate() override;
+
+        void BeginRender(Color clearColor = Colors::Black);
+        void EndRender();
+
+    private:
+        ID3D11RenderTargetView* mRenderTargetView = nullptr;
+        ID3D11DepthStencilView* mDepthStencilView = nullptr;
+        //more shit to add here
+    };
+}

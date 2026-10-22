@@ -16,3 +16,8 @@
 #include "TextureManager.h"
 #include "VertexTypes.h"
 #include "VertexShader.h"
+#include "RenderObject.h"
+#include "Transform.h"
+#include "DirectionalLight.h"
+#include "Material.h"
+#include "StandardEffect.h"

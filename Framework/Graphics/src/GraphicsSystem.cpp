@@ -1,5 +1,6 @@
 #include "Precompiled.h"
 #include "GraphicsSystem.h"
+#include "RenderTarget.h"
 
 using namespace TRengine;
 using namespace TRengine::Graphics;
@@ -116,6 +117,7 @@ void GraphicsSystem::BeginRender()
     mImmediateContext->ClearRenderTargetView(mRenderTargetView, (FLOAT*)(&mClearColor));
     mImmediateContext->ClearDepthStencilView(mDepthStencilView, D3D11_CLEAR_DEPTH | D3D11_CLEAR_STENCIL, 1.0f, 0);
 }
+
 void GraphicsSystem::EndRender()
 {
     mSwapChain->Present(mVsync, 0);

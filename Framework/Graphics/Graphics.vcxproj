@@ -141,16 +141,22 @@
     <ClInclude Include="inc\Common.h" />
     <ClInclude Include="inc\ConstantBuffer.h" />
     <ClInclude Include="inc\DebugUI.h" />
+    <ClInclude Include="inc\DirectionalLight.h" />
     <ClInclude Include="inc\Graphics.h" />
     <ClInclude Include="inc\GraphicsSystem.h" />
+    <ClInclude Include="inc\Material.h" />
     <ClInclude Include="inc\MeshBuffer.h" />
     <ClInclude Include="inc\MeshBuilder.h" />
     <ClInclude Include="inc\MeshTypes.h" />
     <ClInclude Include="inc\PixelShader.h" />
+    <ClInclude Include="inc\RenderObject.h" />
+    <ClInclude Include="inc\RenderTarget.h" />
     <ClInclude Include="inc\Sampler.h" />
     <ClInclude Include="inc\SimpleDraw.h" />
+    <ClInclude Include="inc\StandardEffect.h" />
     <ClInclude Include="inc\Texture.h" />
     <ClInclude Include="inc\TextureManager.h" />
+    <ClInclude Include="inc\Transform.h" />
     <ClInclude Include="inc\VertexShader.h" />
     <ClInclude Include="inc\VertexTypes.h" />
     <ClInclude Include="src\Precompiled.h" />
@@ -166,8 +172,11 @@
     <ClCompile Include="src\Precompiled.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
     </ClCompile>
+    <ClCompile Include="src\RenderObject.cpp" />
+    <ClCompile Include="src\RenderTarget.cpp" />
     <ClCompile Include="src\Sampler.cpp" />
     <ClCompile Include="src\SimpleDraw.cpp" />
+    <ClCompile Include="src\StandardEffect.cpp" />
     <ClCompile Include="src\Texture.cpp" />
     <ClCompile Include="src\TextureManager.cpp" />
     <ClCompile Include="src\VertexShader.cpp" />

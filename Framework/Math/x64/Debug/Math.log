@@ -1,4 +1,5 @@
-﻿  TMath.cpp
+﻿  Precompiled.cpp
+  TMath.cpp
 C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector2.h(28,59): warning C4552: '+': result of expression not used
   (compiling source file '/Src/TMath.cpp')
   
