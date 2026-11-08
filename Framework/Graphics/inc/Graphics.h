@@ -21,3 +21,4 @@
 #include "DirectionalLight.h"
 #include "Material.h"
 #include "StandardEffect.h"
+#include "RenderTarget.h"

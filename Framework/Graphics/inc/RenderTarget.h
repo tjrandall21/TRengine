@@ -4,6 +4,7 @@
 #include "Color.h"
 #include "Texture.h"
 
+
 namespace TRengine::Graphics
 {
     class RenderTarget : public Texture
@@ -27,6 +28,11 @@ namespace TRengine::Graphics
     private:
         ID3D11RenderTargetView* mRenderTargetView = nullptr;
         ID3D11DepthStencilView* mDepthStencilView = nullptr;
-        //more shit to add here
+        D3D11_VIEWPORT mViewport{};
+
+        ID3D11RenderTargetView* mOldRenderTargetView = nullptr;
+        ID3D11DepthStencilView* mOldDepthStencilView = nullptr;
+        D3D11_VIEWPORT mOldViewport{};
+
     };
 }

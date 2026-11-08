@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector2.h(28,59): warning C4552: '+': result of expression not used
+  (compiling source file 'main.cpp')
+  
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector2.h(29,59): warning C4552: '-': result of expression not used
+  (compiling source file 'main.cpp')
+  
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector4.h(21,59): warning C4552: '+': result of expression not used
+  (compiling source file 'main.cpp')
+  
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector4.h(22,59): warning C4552: '-': result of expression not used
+  (compiling source file 'main.cpp')
+  
+  ModelImporter.vcxproj -> C:\Users\tjran\Documents\GitHub\TRengine\x64\Debug\ModelImporter.exe
+  C:\Users\tjran\Documents\GitHub\TRengine\External\assimp-5.2.5\bin\assimp-vc143-mt.dll
+  C:\Users\tjran\Documents\GitHub\TRengine\External\assimp-5.2.5\bin\assimp-vc143-mtd.dll
+          2 file(s) copied.

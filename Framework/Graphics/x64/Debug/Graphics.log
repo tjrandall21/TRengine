@@ -1,2 +1,11 @@
-﻿  StandardEffect.cpp
+﻿  GraphicsSystem.cpp
+  RenderObject.cpp
+  RenderTarget.cpp
+  StandardEffect.cpp
+C:\Users\tjran\Documents\GitHub\TRengine\Framework\Graphics\src\RenderTarget.cpp(94,80): warning C4244: 'argument': conversion from 'float' to 'UINT8', possible loss of data
+  (compiling source file '/src/RenderTarget.cpp')
+  
+  Texture.cpp
+  TextureManager.cpp
+  Generating Code...
   Graphics.vcxproj -> C:\Users\tjran\Documents\GitHub\TRengine\x64\Debug\Graphics.lib

@@ -53,3 +53,8 @@ void Texture::BindPS(uint32_t slot) const
 	auto context = GraphicsSystem::Get()->GetContext();
 	context->PSSetShaderResources(slot, 1, &mShaderResourceView);
 }
+
+void* TRengine::Graphics::Texture::GetRawData() const
+{
+	return mShaderResourceView;
+}

@@ -17,7 +17,10 @@ private:
 	TRengine::Graphics::DirectionalLight mDirectionalLight;
 	TRengine::Graphics::StandardEffect mStandardEffect;
 	TRengine::Graphics::StandardEffect mStandardEffectCel;
+	TRengine::Graphics::RenderTarget mRenderTarget;
 
 	TRengine::Graphics::RenderObject mRenderObject;
+	TRengine::Graphics::RenderObject mRenderSphere;
+	TRengine::Graphics::RenderObject mRenderSphere2;
 	bool mUseCelShading = false;
 };
