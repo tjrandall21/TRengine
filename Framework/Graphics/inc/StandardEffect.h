@@ -10,6 +10,7 @@ namespace TRengine::Graphics
 {
     class Camera;
     class RenderObject;
+    class RenderGroup;
     
     class StandardEffect final
     {
@@ -21,6 +22,7 @@ namespace TRengine::Graphics
         void End();
 
         void Render(const RenderObject& renderObject);
+        void Render(const RenderGroup& renderGroup);
 
         void DebugUI();
 

@@ -5,7 +5,7 @@ using namespace TRengine;
 int WINAPI WinMain(HINSTANCE instance, HINSTANCE, LPSTR, int)
 {
 	AppConfig config;
-	config.appName = L"Solar System";
+	config.appName = L"Hello Lighting";
 
 	App& myApp = MainApp();
 	myApp.AddState<GameState>("GameState");

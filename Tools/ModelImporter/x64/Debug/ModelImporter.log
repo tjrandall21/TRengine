@@ -11,6 +11,8 @@ C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector4.h(21,59): wa
 C:\Users\tjran\Documents\GitHub\TRengine\Framework\Math\Inc\Vector4.h(22,59): warning C4552: '-': result of expression not used
   (compiling source file 'main.cpp')
   
+C:\Users\tjran\Documents\GitHub\TRengine\Tools\ModelImporter\main.cpp(35,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tjran\Documents\GitHub\TRengine\Tools\ModelImporter\main.cpp(112,13): warning C4018: '<': signed/unsigned mismatch
   ModelImporter.vcxproj -> C:\Users\tjran\Documents\GitHub\TRengine\x64\Debug\ModelImporter.exe
   C:\Users\tjran\Documents\GitHub\TRengine\External\assimp-5.2.5\bin\assimp-vc143-mt.dll
   C:\Users\tjran\Documents\GitHub\TRengine\External\assimp-5.2.5\bin\assimp-vc143-mtd.dll

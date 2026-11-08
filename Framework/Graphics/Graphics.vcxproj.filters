@@ -81,6 +81,15 @@
     <ClInclude Include="inc\RenderTarget.h">
       <Filter>inc</Filter>
     </ClInclude>
+    <ClInclude Include="inc\Model.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\ModelIO.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\ModelManager.h">
+      <Filter>inc</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\GraphicsSystem.cpp">
@@ -129,6 +138,12 @@
       <Filter>src</Filter>
     </ClCompile>
     <ClCompile Include="src\RenderTarget.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ModelIO.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ModelManager.cpp">
       <Filter>src</Filter>
     </ClCompile>
   </ItemGroup>

@@ -148,6 +148,9 @@
     <ClInclude Include="inc\MeshBuffer.h" />
     <ClInclude Include="inc\MeshBuilder.h" />
     <ClInclude Include="inc\MeshTypes.h" />
+    <ClInclude Include="inc\Model.h" />
+    <ClInclude Include="inc\ModelIO.h" />
+    <ClInclude Include="inc\ModelManager.h" />
     <ClInclude Include="inc\PixelShader.h" />
     <ClInclude Include="inc\RenderObject.h" />
     <ClInclude Include="inc\RenderTarget.h" />
@@ -168,6 +171,8 @@
     <ClCompile Include="src\GraphicsSystem.cpp" />
     <ClCompile Include="src\MeshBuffer.cpp" />
     <ClCompile Include="src\MeshBuilder.cpp" />
+    <ClCompile Include="src\ModelIO.cpp" />
+    <ClCompile Include="src\ModelManager.cpp" />
     <ClCompile Include="src\PixelShader.cpp" />
     <ClCompile Include="src\Precompiled.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
